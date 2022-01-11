@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pawanmasaischool.github.io/csb-tfosp/static/css/main.0c1f11c1.chunk.css",
+    "main.js": "https://pawanmasaischool.github.io/csb-tfosp/static/js/main.92c75018.chunk.js",
+    "main.js.map": "https://pawanmasaischool.github.io/csb-tfosp/static/js/main.92c75018.chunk.js.map",
+    "runtime-main.js": "https://pawanmasaischool.github.io/csb-tfosp/static/js/runtime-main.c40a8d1b.js",
+    "runtime-main.js.map": "https://pawanmasaischool.github.io/csb-tfosp/static/js/runtime-main.c40a8d1b.js.map",
+    "static/js/2.05d5cf2a.chunk.js": "https://pawanmasaischool.github.io/csb-tfosp/static/js/2.05d5cf2a.chunk.js",
+    "static/js/2.05d5cf2a.chunk.js.map": "https://pawanmasaischool.github.io/csb-tfosp/static/js/2.05d5cf2a.chunk.js.map",
+    "index.html": "https://pawanmasaischool.github.io/csb-tfosp/index.html",
+    "static/css/main.0c1f11c1.chunk.css.map": "https://pawanmasaischool.github.io/csb-tfosp/static/css/main.0c1f11c1.chunk.css.map",
+    "static/js/2.05d5cf2a.chunk.js.LICENSE.txt": "https://pawanmasaischool.github.io/csb-tfosp/static/js/2.05d5cf2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40a8d1b.js",
+    "static/js/2.05d5cf2a.chunk.js",
+    "static/css/main.0c1f11c1.chunk.css",
+    "static/js/main.92c75018.chunk.js"
+  ]
+}
